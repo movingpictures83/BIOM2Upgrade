@@ -1,0 +1,2 @@
+Prefix plugins/BIOM2Upgrade/example
+Plugin BIOM2Upgrade inputfile mystuff.biom outputfile mystuff2.biom
